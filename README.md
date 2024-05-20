@@ -36,6 +36,3 @@ We welcome contributions to enhance the functionality and features of this proje
 
 Special thanks to the contributors and the open-source community for their invaluable support and resources.
 
----
-
-Feel free to customize this overview further to fit the specifics of your project and add any additional sections as needed.
